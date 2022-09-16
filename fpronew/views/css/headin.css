@@ -1,0 +1,57 @@
+#head h1
+{
+	color: #1F1D1E;
+	font-size: 30px;
+}
+#head fieldset
+{
+	border-color: blue;
+}
+#menu
+{
+	position: absolute;
+	width: 500px;
+	float: left;
+	height: 70px;
+	left: 400px;
+
+}
+ul
+{
+	list-style-type: none;
+	float: left;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+ul li
+{
+	list-style: none;
+	margin-left: 62px;
+	position: relative;
+	font-size: 14px;
+}
+ul li a
+{
+	text-decoration: none;
+	color: blue;
+	text-transform: uppercase;
+
+
+}
+ul li a::after
+{
+	content: '';
+	height: 3px;
+	width: 0%;
+	background-color: white;
+	position: absolute;
+	left: 0;
+	bottom: -10px;
+	transition: 0.5s;
+}
+ul li a:hover::after
+{
+	width: 100%;
+
+}

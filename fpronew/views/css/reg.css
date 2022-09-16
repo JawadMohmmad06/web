@@ -1,0 +1,179 @@
+#{
+	margin: 0;
+	padding: 0;
+}
+#reg{
+	width: 100%;
+	background-color: #249E9E;
+	background-position: center;
+	background-size: cover;
+	height: 170vh;
+}
+#foot
+{
+	
+	width: 100%;
+	background-color: #249E9E;
+	background-position: center;
+	background-size: cover;
+	
+
+}
+#submit
+{
+	width: 50%;
+	height: 40px;
+	background: #05A4E3;
+	border: 2px solid green;
+	margin-top: 13px;
+	color: white;
+	font-size: 15px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+}
+#submit:hover
+{
+	background-color: white;
+	color: blue;
+}
+#f1
+{
+	width: 250px;
+	height: 270px;
+	background-color: #376666;
+
+	position: absolute;
+	top: 120px;
+	left: 20px;
+	border-radius: 10px;
+	padding: 25px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+
+
+}
+#f1 label,p
+{
+	color: white;
+	width: 230px;
+	font-family: sans-serif;
+	text-align: center;
+
+}
+#f2
+{
+	width: 250px;
+	height: 270px;
+	background-color: #376666;
+
+	position: absolute;
+	top: 120px;
+	left: 300px;
+	border-radius: 10px;
+	padding: 25px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+
+
+}
+#f2 label
+{
+	color: white;
+	width: 230px;
+	font-family: sans-serif;
+	text-align: center;
+
+}
+#f3
+{
+	width: 250px;
+	height: 270px;
+	background-color: #376666;
+
+	position: absolute;
+	top: 120px;
+	left: 600px;
+	border-radius: 10px;
+	padding: 25px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+
+
+}
+#f3 label,p
+{
+	color: white;
+	width: 230px;
+	font-family: sans-serif;
+	text-align: center;
+
+}
+#f4
+{
+	width: 250px;
+	height: 570px;
+	background-color: #376666;
+
+	position: absolute;
+	top: 430px;
+	left: 20px;
+	border-radius: 10px;
+	padding: 25px;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius: 5px;
+
+
+}
+#f4 label,p
+{
+	color: white;
+	width: 230px;
+	font-family: sans-serif;
+	text-align: center;
+
+}
+
+
+
+
+
+
+
+
+
+
+#f4 a
+{
+	color: blue;
+	width: 230px;
+	font-family: sans-serif;
+	
+
+}
+#form fieldset
+{
+ border-color: blue;
+}
+#form legend
+{
+	color: black;
+	width: 230px;
+	font-family: sans-serif;
+	
+}
+#f1 fieldset
+{
+	border-color: blue;
+}
+#f2 fieldset
+{
+	border-color: blue;
+}
+#f3 fieldset
+{
+	border-color: blue;
+}
+#f4 fieldset
+{
+	border-color: blue;
+}
